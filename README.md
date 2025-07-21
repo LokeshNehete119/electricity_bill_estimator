@@ -20,6 +20,7 @@ We experimented with various supervised-learning regression models:
 - Linear Regression
 - Random Forest Regressor 
 - Gradient Boosting Regressor
+
 Among these Gradient Boosting Regressor model performed the best with a R² score of 0.5939
 
 Hyperparameter tuning was applied for Gradient Boosting Regressor model using:
